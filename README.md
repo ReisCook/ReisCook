@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Reis Cook. I am currently a computer science student at the University of Washington Tacoma. 
 
 <!--
 **ReisCook/ReisCook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
