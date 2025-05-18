@@ -1,4 +1,4 @@
-### My name is Reis Cook. I am currently a computer science student at the University of Washington Tacoma. 
+### My name is Reis Cook. I am currently a computer science student at the University of Washington Tacoma. Email: reiscook@gmail.com
 
 <!--
 **ReisCook/ReisCook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
